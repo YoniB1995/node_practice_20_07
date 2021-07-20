@@ -1,0 +1,17 @@
+[
+    {
+        "name":"yoni",
+        "age":25,
+        "isLearning":false
+    },
+    {
+        "name":"almog",
+        "age":26,
+        "isLearning":true
+    },
+    {
+        "name":"yoav",
+        "age":22,
+        "isLearning":false
+    }
+]
